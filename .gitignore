@@ -1,0 +1,32 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+.vs/
+.vscode/
+.idea/
+.vsconfig
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# Ekran goruntuleri ve gecici dosyalar
+/Assets/Screenshots/
+/Assets/Screenshots.meta
+Temp_*
+*.log
+
+# Sahne 2+ GB: 'Zoo > Build Zoo' menusu koddan yeniden uretir (GitHub 100 MB dosya sinirini asar)
+/Assets/Scenes/ZooMain.unity
+/Assets/Scenes/ZooMain.unity.meta

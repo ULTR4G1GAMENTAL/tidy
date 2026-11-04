@@ -1,0 +1,17 @@
+DOKU KAYNAKLARI - Poly Haven (https://polyhaven.com), lisans: CC0 (https://polyhaven.com/license)
+Atif zorunlu degil; yazarlara tesekkur amaciyla listelenmistir.
+
+grass_ground          Charlotte Baglioni
+old_stone_wall        Charlotte Baglioni
+dirt_aerial_02        Rob Tuytel
+sand_01               Rob Tuytel
+asphalt_02            Rob Tuytel
+white_plaster_02      Rob Tuytel
+grey_roof_tiles       Rob Tuytel
+brown_planks_03       Rob Tuytel
+metal_plate           Rob Tuytel
+large_floor_tiles_02  Rob Tuytel
+tree_bark_03          Rob Tuytel
+dry_ground_01         Rob Tuytel
+concrete_pavers_02    Amal Kumar
+roof_tiles            Stephan Seeliger

@@ -1,0 +1,15 @@
+Modern Chinese Street Lamp by Cyrus_JS (https://sketchfab.com/Cyrus_JS) - CC-BY 4.0 - https://sketchfab.com/3d-models/modern-chinese-street-lamp-ce9d029fe1c14d01b9193b2c31f7c484
+Stylized Wood Lowpoly (fence kit): supplied by user, license not stated in package - verify.
+
+Grass.fbx + Grassblade_Texture(_02).png (Assets/Env/Grass): supplied by the project owner; author/licence not stated in the package - verify before public release.
+
+Props (Assets/Env/Props), supplied by the project owner:
+- Zsolnay Fountain by georgiyhazankin - CC-BY 4.0 (https://sketchfab.com/3d-models/zsolnay-fountain-a3d182f3e0fb44dcbec52a60eba591dc) - decimated
+- Mossy Rock by Julyaaa - CC-BY 4.0 (https://sketchfab.com/3d-models/mossy-rock-3406cbca74b2468a85188d15ba2d8e86)
+- Stylized Rock by Agustin Honnun - Sketchfab Standard licence (VERIFY before release)
+- A Fountain of Held Breath sculpture, flower pot/vase, Flowers, Margarita flower: licence not stated in the packages (VERIFY before release); statue decimated
+- NOT USED: Purple Flower by Laser Design (CC-BY-NC, non-commercial)
+
+Trees: 'this tree is growing' (Assets/Env/TreeAssets), supplied by the project owner; licence not stated in the package (VERIFY). Decimated; floating rock base removed.
+Purple Flower by Laser Design - CC-BY-NC 4.0 (NON-COMMERCIAL: cannot be used in a commercial release) - used at the entrance at the owner's request.
+'tree-animate' package (.blend) not used (cannot be opened without Blender).

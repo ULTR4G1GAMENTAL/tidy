@@ -1,0 +1,10 @@
+* text=auto
+*.fbx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ttf binary
+*.glb binary
+*.blend binary
+*.psd binary
+*.unity merge=binary
